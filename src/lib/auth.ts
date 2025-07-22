@@ -65,7 +65,7 @@ export const mockUsers: User[] = [
   {
     id: '2',
     email: 'user@devlife.com',
-    name: 'Alex Developer',
+    name: 'Nishant Sinha',
     role: 'user',
     stats: {
       level: 3,
